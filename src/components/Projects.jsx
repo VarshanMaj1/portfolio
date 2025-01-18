@@ -80,7 +80,7 @@ const Projects = () => {
   const projects = [
     {
       title: "BrainX",
-      description: "A decentralized NFT marketplace enabling users to browse and buy digital assets, built with blockchain technology and Ethereum wallet support.",
+      description: "BrainX is your personal AI-powered cognitive enhancement and learning companion. Designed to boost your knowledge, sharpen your skills, and expand your intellectual capabilities, BrainX combines cutting-edge neuroscience and AI technology to supercharge your brain. Whether you’re a student, a professional, or a lifelong learner, BrainX helps you unlock your full potential.",
       tags: ["React 18", "Tailwind CSS", "Node.js", "Express", "MongoDB", "Ethereum"],
       image: brainX,
       link: "",
@@ -88,7 +88,7 @@ const Projects = () => {
     },
     {
       title: "JobNow",
-      description: "A web-based drawing application inspired by Excalidraw, featuring hand-drawn style diagrams with multiple tools and canvas controls.",
+      description: "JobNow is your ultimate tool for finding and securing your dream job with ease. Whether you're a fresh graduate, a seasoned professional, or looking for freelance gigs, JobNow has everything you need to navigate your career journey.",
       tags: ["React 18", "Rough.js", "Perfect Freehand", "Tailwind CSS", "Vite"],
       image: jobNow,
       link: "",
@@ -96,7 +96,7 @@ const Projects = () => {
     },
     {
       title: "BigOrangeJuice",
-      description: "A modern logo creation platform with professional design tools, enabling users to create custom logos with extensive customization options.",
+      description: "BigOrangeJuice is a vibrant, fun, and dynamic app designed to energize your daily routine! Whether it’s managing your health, boosting creativity, or exploring new experiences, BigOrangeJuice is your one-stop app for injecting a dose of freshness into your life",
       tags: ["React.js", "Tailwind CSS", "Framer Motion", "html2canvas", "Lucide Icons"],
       image: BigOrangeJuice,
       link: "",
@@ -104,7 +104,7 @@ const Projects = () => {
     },
     {
       title: "FancyGithub",
-      description: "An AI-powered platform for transcribing and analyzing meetings, boosting team productivity through actionable insights.",
+      description: "An AI-powered platform for transcribing and analyzing meetings, boosting team productivity through actionable insightsFancyGithub is an intuitive and feature-rich tool designed to enhance your GitHub experience by providing advanced visualization, streamlined workflows, and customizable insights. With FancyGithub, you can elevate your productivity, simplify repository management, and gain deeper insights into your projects and contributions.",
       tags: ["React.js", "Vite", "TailwindCSS", "Microsoft Cognitive Services", "OpenAI API"],
       image: FancyGithub,
       link: "",
