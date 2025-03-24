@@ -5,7 +5,7 @@ import { scrollToSection } from "../utils/scroll";
 import { rightArrow, download } from "../assets";
 
 const Hero = () => {
-  const words = ["Web Developer", "Full Stack Developer"];
+  const words = ["Web Developer", "Full Stack Developer","Web3 Developer"];
 
   return (
     <div id="home" className="relative h-screen w-full overflow-hidden bg-black">
